@@ -123,7 +123,7 @@ function App() {
             </div>
             <div class="px-6 pt-4 pb-2">
               <button
-                className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full m-auto"
+                className="bg-[#5d8b25] hover:bg-blue-700 text-white font-bold py-2 px-4 rounded w-full m-auto"
                 onClick={() => fetchJokes()}
               >
                 Get new joke
