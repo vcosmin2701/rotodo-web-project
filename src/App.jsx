@@ -75,7 +75,7 @@ function App() {
     <>
       <div className={style.bg}>
         <div className={style.container}>
-          <h3 className={style.heading}>TodoApp</h3>
+          <h3 className={style.heading}>What's up for today?</h3>
           <form onSubmit={createTodo} className={style.form}>
             <input
               value={input}
